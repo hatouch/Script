@@ -1,0 +1,4 @@
+SpeechRecognition
+PyAudio
+googletrans==4.0.0rc1
+deepl
